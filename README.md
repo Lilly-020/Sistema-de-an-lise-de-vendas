@@ -4,6 +4,26 @@
 --------------------------------------------------------------------------------------------
 Com esse programa, você pode receber análise de suas vendas e prvisão futura em gráficos pandas, os calculos são feitos usando uma função quadrática com uma abordagem bayesiana!
 
+Os dados são coletados das pastas de entrada, que contém o nome de cada conta nelas:
+EX:. Entrada/Vendas/Empresa_1 
+     Entrada/Estoque/Empresa_1
+
+Pode-se notar que há uma pasta de entrada, que contém duas pastas, uma de Vendas e outra de Estoque, ambas contém outras pastas com o nome da conta que será análisada.
+### Exemplo de extrutura:
+```python
+/Entrada
+|  /Estoque
+|  |  /Empresa_1
+|  |  |  documento.csv
+|  |  /Empresa_2
+|  |  |  documento.csv
+|  /Vendas
+|  |  /Empresa_1
+|  |  |  documento.csv
+|  |  /Empresa_2
+|  |  |  documento.csv
+```
+
 ### Como usar!
 Para utilizar, ir no destino onde o programa esta (ex:. destino/do/arquivo), USANDO O 'cmd', digite:
 ```cmd
