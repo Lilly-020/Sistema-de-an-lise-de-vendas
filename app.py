@@ -21,10 +21,10 @@ BANCO_DE_DADOS = 'geral.db'
 
 # Nome das contas (usado para acessar as subpastas)
 CONTAS = {
-    'A':'Braza',
-    'B':'Distribuidao',
-    'C':'Gab',
-    'D':'Prodoo',
+    'A':'B',
+    'B':'D',
+    'C':'G',
+    'D':'P',
 }
 
 # Banco de dados
