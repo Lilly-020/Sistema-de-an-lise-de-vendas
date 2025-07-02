@@ -1,5 +1,9 @@
 # PROGRAMA PARA ANÁLISE DAS VENDAS E ESTOQUE
 
+### Programado para arquivos especificos, mas isso pode ser facilmente ajustado no código!!!
+--------------------------------------------------------------------------------------------
+Com esse programa, você pode receber análise de suas vendas e prvisão futura em gráficos pandas, os calculos são feitos usando uma função quadrática com uma abordagem bayesiana!
+
 ### Como usar!
 Para utilizar, ir no destino onde o programa esta (ex:. destino/do/arquivo), USANDO O 'cmd', digite:
 ```cmd
