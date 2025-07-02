@@ -2,7 +2,7 @@
 
 ### Programado para arquivos especificos, mas isso pode ser facilmente ajustado no código!!!
 --------------------------------------------------------------------------------------------
-Com esse programa, você pode receber análise de suas vendas e prvisão futura em gráficos pandas, os calculos são feitos usando uma função quadrática com uma abordagem bayesiana!
+🚀 Com esse programa, você pode receber análise de suas vendas e previsão futura em gráficos pandas, os cálculos são feitos usando uma função quadrática com uma abordagem bayesiana! 📊✨
 
 Os dados são coletados das pastas de entrada, que contém o nome de cada conta nelas:
 EX:. Entrada/Vendas/Empresa_1 
